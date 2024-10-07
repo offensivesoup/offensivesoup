@@ -1,9 +1,8 @@
 <div align= "center">
 <div align="left"> <h1>👋 <strong>김동환</strong></h1> <p>💡 항상 데이터를 기반으로 생각하려 노력합니다. </p> 
-<p>💡 백엔드를 선호하며 풀스택을 지향합니다. </p> 
-<p>📍 Based in South Korea | 🌏 Open to global opportunities</p> </div>
+<p>💡 백엔드를 선호하며 풀스택을 지향합니다. </p> </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "left">
+    <div  align= "center">
     <h2> FrontEnd </h2>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -39,7 +38,7 @@
          <a href=https://efficient-flamingo-154.notion.site/fc11ad381f914980805b1bc7f3c23e72?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7e2d1ea47cb843eda8a97904ffde47b9?v=6bb60e0f875f42e5b25ff73efdb8975d&pvs=4"> </a>
          <a href=mailto:ehdghks9719@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdghks9719@gmail.com"> </a>
           </div>  <br>
-    <div align= "left"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foffensivesoup%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foffensivesoup%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div>
     </div>
     <div style="text-align: left;">
