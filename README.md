@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/>
           <br/>
@@ -37,9 +36,7 @@
     <div align= "center"> <a href=https://www.instagram.com/kimdonghwan_______/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kimdonghwan_______/"> </a>
          <a href=https://efficient-flamingo-154.notion.site/fc11ad381f914980805b1bc7f3c23e72?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/7e2d1ea47cb843eda8a97904ffde47b9?v=6bb60e0f875f42e5b25ff73efdb8975d&pvs=4"> </a>
          <a href=mailto:ehdghks9719@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdghks9719@gmail.com"> </a>
-          </div>  <br>
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foffensivesoup%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div>
+          </div>
     </div>
     <div style="text-align: left;">
         </div>
